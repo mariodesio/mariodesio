@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Writing code at [@octopus.energy](https://octopus.energy/) 🐙
 <!--
 **mariodesio/mariodesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
